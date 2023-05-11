@@ -37,7 +37,11 @@ Steller集成第一版市面上放出来的代码以及市面上全部基于第�
 7. 修复了AI回复内容包含某些代码时，显示效果异常的bug
 8. 增加了代码复制按钮
 
+
+
 *测试网址：http://chat.stellar.hk* 
+
+![图片_20230511181608](https://github.com/stellarhk/chatgpt/assets/128345288/f30fb38c-db92-4e4b-9947-d97d15fb7ab4)
 
 ------
 
