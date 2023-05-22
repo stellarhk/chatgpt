@@ -12,9 +12,6 @@ Steller集成第一版市面上放出来的代码以及市面上全部基于第�
 
 <img width="1086" alt="WeChat截图_20230510202128" src="https://github.com/stellarhk/chatgpt/assets/128345288/c0731edf-aa9f-4f77-927e-5a62b2c9f3e8">
 
-
-![123](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/a784d30e-a4b5-419f-be4e-0130ba2dcae3)
-
 **2023-05-10更新版本日志：**
 
 1. 更新GPT-4以及GPT-4-32k模型
@@ -37,11 +34,7 @@ Steller集成第一版市面上放出来的代码以及市面上全部基于第�
 7. 修复了AI回复内容包含某些代码时，显示效果异常的bug
 8. 增加了代码复制按钮
 
-
-
 *测试网址：http://chat.stellar.hk* 
-
-![图片_20230511181608](https://github.com/stellarhk/chatgpt/assets/128345288/f30fb38c-db92-4e4b-9947-d97d15fb7ab4)
 
 ------
 
@@ -56,7 +49,5 @@ FAQ：
 
 对chatgpt感兴趣的同学们欢迎加群讨论。群里有很多大神，有问题可以互相帮助。如果需要在本项目基础上进行二次开发或者其他商务合作，可以群沟通。
 
-由于群里人数已超过200，无法直接扫码进群，想进群的朋友可以加热心网友小号，由他帮忙拉进群。有自动拉人进群方案的朋友欢迎随时联系我，方便大家讨论。
-
-![图片_20230320133446](https://user-images.githubusercontent.com/128345288/226255445-2859a9dc-384d-4d64-a7b9-a1ab875c5ff2.jpg)
-
+![2](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/91ab95c7-8a32-4337-a672-353040ac3907)
+![1](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/2cb7e0d8-a0d9-4652-a02a-aac5aec8a6fc)
