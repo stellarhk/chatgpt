@@ -51,4 +51,6 @@ FAQ：
 
 ![2](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/91ab95c7-8a32-4337-a672-353040ac3907)
 
-![图片_20230811174551](https://github.com/stellarhk/chatgpt-s2/assets/128345288/960c89fb-cf32-454d-a3cc-dd4cf82c06dc)
+
+![图片_20230823230719_1](https://github.com/stellarhk/chatgpt/assets/128345288/c665a22d-2819-4da8-a6ad-5c03b2b08e23)
+![图片_20230823230719](https://github.com/stellarhk/chatgpt/assets/128345288/8b7de3d9-8749-4420-919c-19f38e897ca5)
