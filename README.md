@@ -1,6 +1,6 @@
 # 本项目已更新GPT-4以及GPT-4-32k模型，现在免费加群讨论，即将达到500人上限，欲加从速！
 本项目完全开源，直接调用OpenAI的API接口的model，有以下特性和功能：
-![photo_2023-10-12_17-43-00](https://github.com/stellarhk/chatgpt/assets/128345288/2fb6bf88-4056-435a-81df-4534bcffeb4a)
+![2023-10-25 03 37 19](https://github.com/stellarhk/chatgpt/assets/128345288/c9153056-d3ae-4c55-bc1b-bddc56c5803b)
 
 
 # 介绍
@@ -8,7 +8,7 @@ Steller集成第一版市面上放出来的代码以及市面上全部基于第�
 以下是相对应的的介绍
 可以点击下方链接查看样式体验：
 
->>>>https://chat.stellar.hk
+>>>>https://str.hk
 以下是ChatGPT商用版
 
 <img width="1086" alt="WeChat截图_20230510202128" src="https://github.com/stellarhk/chatgpt/assets/128345288/c0731edf-aa9f-4f77-927e-5a62b2c9f3e8">
@@ -35,7 +35,7 @@ Steller集成第一版市面上放出来的代码以及市面上全部基于第�
 7. 修复了AI回复内容包含某些代码时，显示效果异常的bug
 8. 增加了代码复制按钮
 
-*测试网址：http://chat.stellar.hk* 
+*测试网址：http://str.hk*
 
 ------
 
