@@ -1,6 +1,5 @@
 # 本项目已更新GPT-4以及GPT-4-32k模型，现在免费加群讨论，即将达到500人上限，欲加从速！
-本项目完全开源，直接调用OpenAI的API接口的model，有以下特性和功能：
-![2023-10-25 03 37 19](https://github.com/stellarhk/chatgpt/assets/128345288/c9153056-d3ae-4c55-bc1b-bddc56c5803b)
+本项目完全开源，直接调用OpenAI的API接口的model.
 
 
 # 介绍
@@ -51,4 +50,5 @@ FAQ：
 对chatgpt感兴趣的同学们欢迎加群讨论。群里有很多大神，有问题可以互相帮助。如果需要在本项目基础上进行二次开发或者其他商务合作，可以群沟通。
 
 
-![图片_20230919004915](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/9d7d7be7-acc6-462a-ae0c-5f7a4fb81682)
+![2023-10-25 03 37 19](https://github.com/stellarhk/chatgpt/assets/128345288/87073a08-5320-4585-af88-3dcd11a06648)
+
