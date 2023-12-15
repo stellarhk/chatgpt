@@ -6,7 +6,7 @@
 Steller集成第一版市面上放出来的代码以及市面上全部基于第一版源码的二开版本，并且加了后台以及数据库功能，对此表示对所有贡献者表示感谢。
 以下是相对应的的介绍
 可以点击下方链接查看样式体验：
-![b3fa3826043aec76a2d3303d3e96526](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/1ac46306-0bee-4498-af89-db7935028820)
+![photo_2023-12-15_16-07-37](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/52885273-6b69-4de4-87d6-5ac78f8530f0)
 >>>>https://str.hk
 以下是ChatGPT商用版
 
