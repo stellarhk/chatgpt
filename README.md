@@ -1,7 +1,8 @@
 # 本项目已更新GPT最新模型，现在免费加群讨论，即将达到500人上限，欲加从速！
 本项目完全开源，直接调用OpenAI的API接口的model.
 
-![图片_20240116033135](https://github.com/stellarhk/chatgpt/assets/128345288/32773f82-4a1d-4d4d-bc69-9935c823c756)
+![图片_20240125042145](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/19a15620-8d55-44d0-8d16-adcdac68a83a)
+
 
 # 介绍
 Steller集成第一版市面上放出来的代码以及市面上全部基于第一版源码的二开版本，并且加了后台以及数据库功能，对此表示对所有贡献者表示感谢。
