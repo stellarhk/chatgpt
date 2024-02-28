@@ -1,7 +1,7 @@
 # 本项目已更新GPT最新模型，现在免费加群讨论，即将达到500人上限，欲加从速！
 本项目完全开源，直接调用OpenAI的API接口的model.
 由于群超过人数，请添加下面的小伙伴邀请你进群
-![微信图片_20240220143129](https://github.com/stellarhk/chatgpt/assets/128345288/be85126e-2dc2-4250-8922-8de39729e25d)
+![微信图片_20240228204349](https://github.com/stellarhk/chatgpt-s2/assets/128345288/195c7825-cf23-4710-9a22-ac577a0f0e19)
 
 
 
