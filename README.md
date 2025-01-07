@@ -1,6 +1,9 @@
 # 本项目已更新GPT-4o以及GPT-4-32k模型，现在免费加群讨论，旧群已满，请加新群，欲加从速！
 Steller.hk集成第一版市面上放出来的代码以及市面上全部基于第一版源码的二开版本，是最早的GPT头批贡献者，并且加了后台以及数据库功能，对此表示对所有贡献者表示感谢。
+#推荐一个好用的API接口：https://api.aiduckduck.top
+1元使用openai满血官转和claude，Midjourney 8秒出图
 
+#推荐采购原生api和购买plus，推荐：neuronicx.com
 以下是相对应的的介绍
 可以点击下方链接查看样式体验：
 #推荐一个好用的API接口：https://api.duckagi.com
